@@ -185,6 +185,58 @@ export default function Linkedin() {
                     <h2>Share</h2>
                   </i>
                 </div>
+                <div className="comments-container">
+                  <img
+                    src={require("../../Assets/linkedin/person.png")}
+                    alt="profile-2"
+                  />
+                  <div className="input-camera">
+                    <input placeholder="Add a comment..." />
+                    <i className="fas fa-camera"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="post-box">
+              <div className="profile-nav">
+                <div className="user-box">
+                  <img
+                    src={require("../../Assets/linkedin/girl.png")}
+                    alt="profile"
+                  />
+                  <div>
+                    <h1>Vanessa Lima</h1>
+                    <span>Front-end Developer</span>
+                  </div>
+                </div>
+                <p>What a great GAME!</p>
+              </div>
+              <div className="video-container">
+                <video controls>
+                  <source
+                    src="https://www.callofduty.com/cdn/mw/videos/seasons/s2-hero-vid-desktop.mp4"
+                    type="video/mp4"
+                  />
+                </video>
+                <div className="likes-box">
+                  <i className="fas fa-thumbs-up"></i>
+                  <i className="fas fa-praying-hands"></i>
+                  <i className="far fa-heart"></i>
+                  <span className="likes-span">150 Comments</span>
+                </div>
+              </div>
+              <div className="media-actions-container">
+                <div className="media-actions">
+                  <i className="fas fa-thumbs-up blue">
+                    <h2 className="blue">Like</h2>
+                  </i>
+                  <i className="far fa-comments">
+                    <h2>Comments</h2>
+                  </i>
+                  <i className="fas fa-share">
+                    <h2>Share</h2>
+                  </i>
+                </div>
 
                 <div className="comments-container">
                   <img

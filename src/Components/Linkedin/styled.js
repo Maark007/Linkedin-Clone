@@ -343,11 +343,10 @@ export const Content = {
     width: 40%;
     @media screen and (max-width: 1010px) {
       width: 70%;
-      margin: 30px 20px 20px 20px;
     }
     @media screen and (max-width: 804px) {
       width: 100%;
-      margin: 10px;
+      margin: 10px 10px 0 10px;
     }
     .button-first-box {
       display: flex;
