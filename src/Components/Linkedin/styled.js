@@ -28,7 +28,7 @@ export const NavBar = {
     }
     @media screen and (max-width: 804px) {
       padding: 0 20px 0 20px;
-      background: #0077b5;
+      background: #283e4a;
       .chatbox {
         display: block;
       }
@@ -173,7 +173,7 @@ export const BoxContent = styled.div`
   padding: 0 30px;
   @media screen and (max-width: 1110px) {
     justify-content: flex-start;
-    padding: 0 10px;
+    padding: 10px;
   }
 `;
 
