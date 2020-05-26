@@ -465,6 +465,7 @@ export const Content = {
       margin: 10px;
     }
     video {
+      margin-top: 5px;
       height: auto;
       width: 100%;
       outline: none;
