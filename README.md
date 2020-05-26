@@ -6,7 +6,7 @@ https://linkedin-clone.now.sh/
 
 ## Preview
 
-![Optional Text](/src/assets/preview.PNG)
+![Optional Text](/src/Assets/preview.PNG)
 
 ## Tools used
 ```
