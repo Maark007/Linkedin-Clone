@@ -387,6 +387,9 @@ export const Content = {
           margin-right: 5px;
         }
       }
+      .post-centering {
+        align-self: center;
+      }
     }
     .icons-box {
       display: flex;
@@ -569,7 +572,7 @@ export const Content = {
     .main-box {
       border: 1px solid rgba(0, 0, 0, 0.3);
       height: 230px;
-      width: 300px;
+      width: auto;
     }
     .second-box {
       margin: 20px 0 0 0;

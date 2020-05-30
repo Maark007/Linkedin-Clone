@@ -121,7 +121,7 @@ export default function Linkedin() {
                   alert("Is just a clone, you can not do anything!  ")
                 }
               >
-                <span>
+                <span className="post-centering">
                   <i className="far fa-file-alt" />
                   Start a post
                 </span>
